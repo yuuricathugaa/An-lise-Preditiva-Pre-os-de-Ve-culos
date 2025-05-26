@@ -1,24 +1,23 @@
 🔍 Objetivo
 Aplicar técnicas de pré-processamento de dados e construir um modelo de regressão linear múltipla para prever o preço de venda de veículos com base em variáveis como:
 
-Ano de fabricação
+- Ano de fabricação
 
-Quilometragem
+- Quilometragem
 
-Tipo de combustível
-
-Entre outros
+- Tipo de combustível
 
 📊 Fonte dos Dados
 Dataset: Kaggle - Car Price Prediction
 
 🧪 Etapas da Atividade
-Importação e Exploração dos Dados:
 
-Leitura do dataset (scrap price.csv)
+- Importação e Exploração dos Dados:
 
-Uso de pandas, matplotlib, seaborn e sklearn
+- Leitura do dataset (scrap price.csv)
 
-Verificações iniciais com .info(), .describe(), .isnull().sum()
+- Uso de pandas, matplotlib, seaborn e sklearn
 
-Análise exploratória e insights
+- Verificações iniciais com .info(), .describe(), .isnull().sum()
+
+- Análise exploratória e insights
